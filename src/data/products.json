@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "IPhone 14 Pro",
+        "category": 1,
+        "price": 140000
+    },
+    {
+        "id": 2,
+        "name": "IPhone 13",
+        "category": 1,
+        "price": 100000
+    },
+    {
+        "id": 3,
+        "name": "Wildcraft Travel Bag",
+        "category": 4,
+        "price": 2000
+    },
+    {
+        "id": 4,
+        "name": "Lenovo Notebook",
+        "category": 2,
+        "price": 60000
+    }
+]

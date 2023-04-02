@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "name": "Arjun",
+        "email": "arjun@gmail.com",
+        "mobileNumber": "87654328765",
+        "address": "Chennai, India"
+    },
+    {
+        "id": 3,
+        "name": "Priya",
+        "email": "priya@gmail.com",
+        "mobileNumber": "872214328765",
+        "address": "Bangalore, India"
+    },
+    {
+        "id": 2,
+        "name": "Ganesh",
+        "email": "ganesh@gmail.com",
+        "mobileNumber": "99654328765",
+        "address": "Mumbai, India"
+    }
+]
